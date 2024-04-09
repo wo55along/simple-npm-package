@@ -1,6 +1,6 @@
 {
   "name": "jinxiaalong",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple-npm-package",
   "types": "./lib/cjs/types/index.d.ts",
   "main": "./lib/cjs/index.js",
